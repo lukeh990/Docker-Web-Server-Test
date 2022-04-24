@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeh990/Docker-Web-Server-Test.git"
+  },
+  "author": "Luke Harding",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lukeh990/Docker-Web-Server-Test/issues"
+  },
+  "homepage": "https://github.com/lukeh990/Docker-Web-Server-Test#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
